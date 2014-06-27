@@ -16,6 +16,7 @@ Delivery :
  - Le serveur de déploiement sera un wamp (php 5.5)
  
 1) Réaliser l'intégration HTML de la page de contact (bluebox-contact) wording compris
+ - intégrer la dernière version de bootstrap twitter
  - ajouter 2 champs supplémentaires après "Email Address" : "Postal Code" et "City"
  - proposer un design responsive mobile-first
  - l'intégration doit respecter la contrainte suivante : un seul sprite doit être utilisé pour la totalité de la page
